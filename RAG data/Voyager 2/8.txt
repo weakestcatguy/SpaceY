@@ -1,0 +1,6 @@
+ttitude control and propulsion
+Because of the energy required to achieve a Jupiter trajectory boost with an 825-kilogram (1,819 lb) payload, the spacecraft included a propulsion module made of a 1,123-kilogram (2,476 lb) solid-rocket motor and eight hydrazine monopropellant rocket engines, four providing pitch and yaw attitude control, and four for roll control. The propulsion module was jettisoned shortly after the successful Jupiter burn.
+
+Sixteen hydrazine Aerojet MR-103 thrusters on the mission module provide attitude control.[23] Four are used to execute trajectory correction maneuvers; the others in two redundant six-thruster branches, to stabilize the spacecraft on its three axes. Only one branch of attitude control thrusters is needed at any time.[24]
+
+Thrusters are supplied by a single 70-centimeter (28 in) diameter spherical titanium tank. It contained 100 kilograms (220 lb) of hydrazine at launch, providing enough fuel to last until 2034.[25]

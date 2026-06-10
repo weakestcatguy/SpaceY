@@ -1,0 +1,3 @@
+Communications
+The uplink communications are executed via S-band microwave communications. The downlink communications are carried out by an X-band microwave transmitter on board the spacecraft, with an S-band transmitter as a back-up. All long-range communications to and from the two Voyagers have been carried out using their 3.7-meter (12 ft) high-gain antennas. The high-gain antenna has a beamwidth of 0.5° for X-band, and 2.3° for S-band.[46]: 17  (The low-gain antenna has a 7 dB gain and 60° beamwidth.)[46]: 17 
+Because of the inverse-square law in radio communications, the digital data rates used in the downlinks from the Voyagers have been continually decreasing the farther that they get from the Earth.

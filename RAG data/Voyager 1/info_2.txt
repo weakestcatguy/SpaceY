@@ -1,0 +1,16 @@
+In Depth: Voyager 1
+Nation	United States of America (USA)
+Objective(s)	Jupiter Flyby, Saturn Flyby
+Spacecraft	Voyager 1
+Spacecraft Mass	1,592 pounds (721.9 kilograms)
+Spacecraft Power	3 Multi-Hundred Watt Radioisotope Thermoelectric Generators (MHW-RTGs) stacked in a series on a boom, producing about 158 We each, at launch.
+Mission Design and Management	NASA / JPL
+Launch Vehicle	Titan IIIE-Centaur (TC-6 / Titan no. 23E-6 / Centaur D-1T)
+Launch Date and Time	Sept. 5, 1977 / 12:56:01 UT
+Key Dates	March 5, 1979: Jupiter flyby - closest approach
+Nov. 12, 1980: Saturn flyby - closest approach
+Feb.17, 1998: Became the most distant human-made object after overtaking NASA's Pioneer 10
+Jan. 1, 1990: Voyager Interstellar Mission (VIM) officially began
+Aug. 16, 2006: 100 astronomical units reached
+August 2012: Voyager 1 enters interstellar space
+Launch Site	Cape Canaveral, Florida / Launch Complex 41

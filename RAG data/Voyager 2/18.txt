@@ -1,0 +1,3 @@
+Identical Spacecraft
+Voyagers 1 and 2 are identical spacecraft. Each is equipped with instruments to conduct 10 different experiments. The instruments include television cameras, infrared and ultraviolet sensors, magnetometers, plasma detectors, and cosmic-ray and charged-particle sensors. In addition, the spacecraft radio is used to conduct experiments.
+The Voyagers travel too far from the Sun to use solar panels; instead, they were equipped with power sources called radioisotope thermoelectric generators (RTGs). These devices, used on other deep space missions, convert the heat produced from the natural radioactive decay of plutonium into electricity to power the spacecraft instruments, computers, radio and other systems.
